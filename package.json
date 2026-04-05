@@ -1,0 +1,11 @@
+
+{
+  "name": "redis-assignment",
+  "version": "1.0.0",
+  "description": "Redis + MongoDB queries",
+  "main": "query1.js",
+  "dependencies": {
+    "mongodb": "^6.0.0",
+    "redis": "^4.0.0"
+  }
+}
